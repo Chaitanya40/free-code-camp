@@ -1,0 +1,31 @@
+.SearchIcon
+{
+    color:#fff;
+   
+}
+.col-centered{
+    float: none;
+    margin: 30px auto;
+    
+}
+
+.SearchButton
+{
+    background-color:#ED1C24;
+    border-radius:1px;
+}
+.SearchButton:hover{
+    background-color:#C4161C;
+}
+
+.SearchBar{
+
+}
+
+.btn{
+	font-size: 20px !important;
+}
+
+.article-link{
+	background-color: #D8E8ED;
+}
